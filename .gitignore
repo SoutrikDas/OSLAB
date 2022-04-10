@@ -1,7 +1,6 @@
-.gitignore 
-# *.pdf
-# *.rar
-# *.zip
+#*.pdf
+#*.rar
+#*.zip
 *
-*/
+!*.c
 !*.cpp
