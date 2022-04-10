@@ -1,0 +1,7 @@
+.gitignore 
+# *.pdf
+# *.rar
+# *.zip
+*
+*/
+!*.cpp
